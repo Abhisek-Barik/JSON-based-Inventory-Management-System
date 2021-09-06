@@ -2,11 +2,13 @@
 Its the First Assignment given to us (i.e. interns) from ELITE TECHNO GROUPS as part of Python ML/AI Internship
 -----
 ### About the Repository?
-This is an Inventory Management System Project which is created by using Python codes and JSON files. This system contains two notebook files & two json files. They are:
+This is an Inventory Management System Project which is created by using Python codes and JSON files. This system contains three notebook files & three json files. They are:
 1. Adding & Deleting Items.ipynb- Here, the records are added to the dictionary & also can be deleted according to user's choice.
 2. Purchasing Items.ipynb- In this, the customer can purchase any number of items as per his/her choice.
-3. Record.json- It contains all the item details i.e. Name of Item, Price in Rupees, Weight in Grams, Color & Quantity.
-4. Sales.json- It displays the transaction details (what all the items left, what items were purchased etc)
+3. Purchasing Items Part 2.ipynb- In this, the customer can purchase any number of item but only from one single product as per his/her choice.
+4. Record.json- It contains all the item details i.e. Name of Item, Price in Rupees, Weight in Grams, Color & Quantity.
+5. Sales.json- It displays the details about what all are the items remaining after some were purchased.
+6. Transaction.json- It displays the transaction details what was purchased.
 -----
 ### Features
 1. Importing library for easy use
